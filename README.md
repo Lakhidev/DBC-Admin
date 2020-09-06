@@ -1,2 +1,2 @@
 # DBC-Admin
-Admin Panel for Desh Bhagat College, Bardwal website 
+Admin Panel for Desh Bhagat College, Bardwal website.
